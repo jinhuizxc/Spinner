@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Spinner下拉菜单</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="language">
+        <item>c语言</item>
+        <item>java</item>
+        <item>c#</item>
+        <item>c++</item>
+        <item>ios</item>
+        <item>c语言</item>
+
+
+
+
+    </string-array>
+</resources>
